@@ -16,4 +16,4 @@ This is a **frontend clone** of Amazon, built using **HTML, CSS**. It replicates
 ## 📂 Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/kishor116/Amazon-Clone.git
+   git clone https://github.com/kishor116116/Amazon-Clone.git
